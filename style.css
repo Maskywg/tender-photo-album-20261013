@@ -8,3 +8,5 @@
 .ai-caption{margin-top:24px;padding:16px;background:#f0eee4;border-radius:6px}.ai-caption h3{font-size:16px;margin:0}.ai-caption button{margin-top:12px}#aiStatus{font-size:13px;line-height:1.8;overflow-wrap:anywhere}
 
 .remember-key{display:flex;align-items:center;gap:9px}.remember-key input{display:inline-block;width:18px;height:18px;margin:0;accent-color:var(--ink)}
+
+#geminiModel{width:100%;border:1px solid #d5d2c6;background:white;white-space:normal;font-size:13px;padding:12px;margin-top:8px}#aiStatus{white-space:pre-wrap}
